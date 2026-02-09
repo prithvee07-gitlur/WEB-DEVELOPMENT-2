@@ -27,6 +27,8 @@
 //     document.getElementById("btn").after(img);
 
 // }
+document.getElementById("btn").addEventListener
+("click", ()=>handleClick());
 
 function handleClick() {
 const spanEle=document. createElement("span").
